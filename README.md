@@ -3,8 +3,6 @@
 - **Computer Science** graduation 🔁(sixth semester)
 - I have intentions of learning: Angular and Flutter in the near future, so if you have any interesting source of study for those technologies and you're willing to share it with me, I'll be super happy 🤩
 
-<br><br>
-
 <div align="center">
 
 </div>
