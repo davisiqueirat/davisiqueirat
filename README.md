@@ -7,8 +7,6 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davisiqueirat&layout=compact)
-
 </div>
 
 ### Back-end
