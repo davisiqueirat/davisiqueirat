@@ -1,4 +1,5 @@
-#
+#Davi Siqueira
+
 💻 **Software Engineer**
 - **Computer Science** graduation 🔁(sixth semester)
 - I have intentions of learning: Angular and Flutter in the near future, so if you have any interesting source of study for those technologies and you're willing to share it with me, I'll be super happy 🤩
@@ -44,5 +45,6 @@
 
 <div align="center"> 
  <a href="mailto:davisiqueirat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davisiqueirac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <a href="https://www.linkedin.com/in/davisiqueirat" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
 </div>
