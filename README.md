@@ -1,6 +1,4 @@
 💻 **Software Engineer**
-- **Computer Science** graduation 🔁(sixth semester)
-- I have intentions of learning: Angular and Flutter in the near future.
 
 <div align="center">
 
